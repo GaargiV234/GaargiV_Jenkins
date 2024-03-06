@@ -23,7 +23,7 @@ sh './output'
 }
 stage('Deploy') {
 steps {
-echo 'deploy"
+echo 'deploy'
 }
 }
 }
